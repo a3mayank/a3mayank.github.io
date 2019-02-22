@@ -1,4 +1,0 @@
-Sitemap: https://a3mayank.github.io/sitemap.xml
-User-agent: *
-Disallow: /assets/
-Disallow: /images/
